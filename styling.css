@@ -1,0 +1,64 @@
+
+
+body {
+
+	background-color: black;
+
+    width: auto;
+
+    margin: 0;
+    padding: 0;
+
+    /*background-color: blue;*/
+	
+	/*background-image: url("Cliff-op08.png");*/
+	background-position: center;
+
+    background-size: cover;
+
+    background-repeat: no-repeat;
+
+
+   	/*width: 900px;*/
+    height: 700px;
+
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;
+    font-weight: 300;
+    /*text-shadow: 4px 4px 4px #aaa;*/
+    color: white;
+
+    padding-top: 100px;
+
+}
+
+
+#part_one {
+
+	font-size: 30px;
+	text-align: center;
+
+
+}
+
+.scshots {
+	display: inline-block;
+
+	margin-left: auto;
+    margin-right: auto;
+
+}
+
+#part_two {
+	text-align: center;
+	
+
+
+}
+
+/*#a_part {
+
+	height: 600px;
+	background-image: url("FullTitleAndLogoWhiteFinalBlackBackground.png");
+
+}*/

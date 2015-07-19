@@ -1,0 +1,34 @@
+
+
+ #part_one:before {
+
+	background-image: url("cliff.JPG");
+	background-position: center;
+
+    background-size: cover;
+
+    background-repeat: no-repeat;
+    z-index: 1;
+    display: block; /*This part makes it work*/
+    position: absolute; /*This part makes it work*/
+    content: ' '; /*This part makes it work*/
+
+    width: 100%;
+    height: 100%;
+    
+    opacity: 0.8;
+}
+
+#part_one {
+
+	/*background: #5C97FF;*/
+	background: black;
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+    /*height: 100%;*/
+    height: 700px;
+
+}
+
+#a_part
